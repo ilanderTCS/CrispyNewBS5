@@ -1,0 +1,50 @@
+.bg-danger{
+    background-color: #f85a3f!important;
+}
+.text-danger{
+    color: #f85a3f !important;
+}
+#banner img{
+    width:400px;
+    height:400px;
+}
+#banner{
+    background: #f8f9fb;
+}
+#banner .btn-danger{
+    background-color:#f85a3f !important ;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #f85a3f!important;
+}
+#about .icon{
+    height:100px;
+    width:100px;
+    position: relative;
+    border-radius: 50%;
+}
+#about .icon i{
+    position: absolute;
+    color:white;
+    top:50%;
+    right:28%;
+    font-size: 30px;
+    transform: translate(-50%,-50%);
+}
+#news .blog{
+    position: relative;
+}
+#news .btn1{
+    position: absolute;
+    right:10px;
+    top:10px;
+}
+#news .btn2{
+    position: absolute;
+    left:10px;
+    top:10px;
+}
+#news img{
+    height:300px;
+}
